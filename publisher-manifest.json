@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "ff8b864e3db3174fc189ecfa",
+  "owner": "qh6b3qjke",
+  "repo": "page-fc9878e139dcc0ed9a71a635",
+  "title": "萌新",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "fc9878e139dcc0ed9a71a635",
+      "a": "萌新",
+      "b": "2027最新官网",
+      "entity": "萌新",
+      "brand": "萌新",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "93d613020524f4e6f2fadd3f12ee0a35ccd4be371234ff1383b0db79f36a1676",
+      "content": {
+        "primary_entity": "萌新",
+        "keyword1": "萌新",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按照设备系统选择客户端，参考配置文档导入订阅即可开始使用。",
+          "AI_CLIENTS_TITLE": "选择客户端",
+          "AI_CLOSING_TEXT": "选好套餐，打开客户端导入订阅，萌新加速服务即刻可用。",
+          "AI_CLOSING_TITLE": "开始配置萌新",
+          "AI_DESCRIPTION": "，面向刚接触海外加速的用户，围绕设备选择、订阅配置与套餐对比提供简洁指引。萌新提供基础版、旗舰版与团队版三档选择，月付与年付均可，流量、设备数与节点线路各有差异，方便按上网场景挑选。",
+          "AI_FEATURES_INTRO": "从套餐流量、设备数量与订阅周期三个角度，快速判断适合自己的档位。",
+          "AI_FEATURES_TITLE": "萌新加速特点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、3 台设备，适合手机与电脑轻度使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量、5 台设备，含 IPLC 专线游戏加速优化。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量、20 台设备，支持企业定制路由。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TITLE_2": "按设备数选档",
+          "AI_FEATURE_TITLE_3": "按周期选档",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到配置订阅的流程。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_HERO_INTRO": "萌新面向初次接触海外加速的用户，提供基础版、旗舰版与团队版三档套餐，覆盖每月 100GB 到 1000GB 流量与 3 到 20 台设备，按需选择月付或年付，再依照客户端文档导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "选对套餐，轻松配置",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "月度流量从 100GB 到 1000GB",
+          "AI_HIGHLIGHT_3": "月付年付灵活切换",
+          "AI_PLANS_INTRO": "基础版 100GB/3 台设备，旗舰版 300GB/5 台设备，团队版 1000GB/20 台设备；年付分别为 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常上网流量与在线设备数量，在基础版、旗舰版、团队版中挑选一档。",
+          "AI_STEP_TEXT_2": "确认所选套餐的设备数量与流量是否满足需要，再决定月付或年付周期。",
+          "AI_STEP_TEXT_3": "在对应设备上安装客户端，依照配置文档导入订阅信息并连接节点。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "萌新海外加速器",
+          "AI_FAQ_ANSWER_1": "套餐按设备数与月流量区分。单设备轻度使用选基础版，多设备且需要流媒体与游戏优化选旗舰版，团队协作选团队版。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台同时在线。设备超出时可在账户内升级套餐。",
+          "AI_FAQ_ANSWER_3": "年付方案更省：基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。按月付费则分别为 ¥15、¥35、¥85。",
+          "AI_FAQ_ANSWER_4": "线路会根据网络情况调整。基础版使用普通节点池，旗舰版与团队版提供更优的专线或高带宽节点，差异在高峰时段更明显。",
+          "AI_FAQ_ANSWER_5": "在对应系统的客户端中添加订阅链接即可。Windows、macOS、Android、iOS 各有适配客户端，按客户端文档配置。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "萌新怎么判断该选哪档套餐？",
+          "AI_FAQ_QUESTION_2": "套餐最多能同时用几台设备？",
+          "AI_FAQ_QUESTION_3": "月付和年付价格差多少？",
+          "AI_FAQ_QUESTION_4": "不同套餐的线路有什么区别？",
+          "AI_FAQ_QUESTION_5": "订阅导入客户端的步骤是什么？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ycbzx.cn",
+    "host": "ycbzx.cn"
+  },
+  "file_hashes": {
+    "index.html": "6bd8a2d37aa04564c9c95f366381a1336d29cdd253c20a796aae756ed9494f8c",
+    "sitemap.xml": "9ec16b82efef17bfb8aa3ebd0fc93a7c3935daafddffb176f844b3ad3913e42e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "cdb45611313ad37a1e05969b8a3501c7ae46e01336de1f885b9f24bf46d2d8c6",
+    "robots.txt": "85eee650605551bb8ec2b17eca1d23f2d9aadcec9f6314a475bfcf586ccb0a7f",
+    "96784fee5636906ce13d0b2593236fbb.txt": "ee79a0d09d3f86c73438a9bb045932b4a29297b947dcfd78039ca8f6353f7ffb"
+  },
+  "revision": "aa2cf6c1833b693fdfc7e321634fcec121d06ca417eb89c994066cdcff234a38"
+}
